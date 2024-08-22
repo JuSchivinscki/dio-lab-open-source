@@ -1,7 +1,9 @@
 ## Welcome to my GitHub profile 🤍 
 
 ```
-I’m a Computer Science student with a passion for technology. I joined this bootcamp to challenge myself and step out of my comfort zone, and I must say, I’m loving it! I hope you’re enjoying the bootcamp as much as I am. I’m always open to collaborations, conversations, and feedback. Let’s make the most of this experience together!
+I’m a Computer Science student with a passion for technology. I joined this bootcamp to challenge myself and step out
+of my comfort zone, and I must say, I’m loving it! I hope you’re enjoying the bootcamp as much as I am. I’m always open
+to collaborations, conversations, and feedback. Let’s make the most of this experience together!
 ```
 
 ### _Hablitites_
